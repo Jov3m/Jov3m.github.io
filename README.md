@@ -36,4 +36,4 @@ Desenvolvimento completo de um projeto de banco de dados relacional estruturado 
 
 ## 📬 Vamos nos conectar?
 - **LinkedIn:** [Acesse meu LinkedIn](https://www.linkedin.com/in/izadora-christo-neves-4a659b2b0/)
-- **GitHub:** [github.com/Jov3m](https://github.com/IzadoraNeves)
+- **GitHub:** [github.com/IzadoraNeves](https://github.com/IzadoraNeves)
