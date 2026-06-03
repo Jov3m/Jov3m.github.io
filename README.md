@@ -25,15 +25,15 @@ Minha atuação é direcionada para a aplicação prática de controles de segur
 ### 🔒 1. Laboratório de Auditoria e Hardening Automatizado (Em Desenvolvimento)
 Projeto focado na automação de segurança de sistemas operacionais. Através de scripts, realizo a auditoria de configurações de segurança baseadas em frameworks internacionais de mercado (CIS Benchmarks / NIST), aplicando correções automáticas para mitigar riscos de exposição.
 - **Tecnologias:** Automação de Infraestrutura, Segurança de Sistemas, Scripts de Remediação.
-- [Acompanhar o projeto no GitHub ↗](https://github.com/Jov3m)
+- [Acompanhar o projeto no GitHub ↗](https://github.com/IzadoraNeves)
 
 ### 📊 2. Sistema de Arquitetura de Dados Relacionais & Disseminação Pública
 Desenvolvimento completo de um projeto de banco de dados relacional estruturado em três fases distintas (modelagem conceitual, lógica e implementação). O foco principal foi a análise profunda de métricas regionais e a transparência de dados, culminando em uma publicação e disseminação pública dos resultados estruturados.
 - **Tecnologias:** Banco de Dados Relacionais, Modelagem de Dados, SQL, Análise Crítica.
-- [Ver detalhes e documentação do projeto ↗](https://github.com/Jov3m)
+- [Ver detalhes e documentação do projeto ↗](https://github.com/IzadoraNeves)
 
 ---
 
 ## 📬 Vamos nos conectar?
 - **LinkedIn:** [Acesse meu LinkedIn](https://www.linkedin.com/in/izadora-christo-neves-4a659b2b0/)
-- **GitHub:** [github.com/Jov3m](https://github.com/Jov3m)
+- **GitHub:** [github.com/Jov3m](https://github.com/IzadoraNeves)
